@@ -9,7 +9,7 @@ mainClass in Compile := Some("inrae.application.Main")
 
 lazy val scalatagVersion = "0.9.4"
 lazy val jqueryFacadeVersion = "2.0"
-lazy val discoveryVersion ="v0.2.0"
+lazy val discoveryVersion ="0.2.0"
 
 libraryDependencies ++= Seq(
   "com.lihaoyi" %%% "scalatags" % scalatagVersion,

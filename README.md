@@ -8,3 +8,5 @@ sbt fastOptJS::webpack
 ```
 
 open index.html
+
+for further information, visit https://p2m2.github.io/discovery/
