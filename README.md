@@ -7,6 +7,6 @@ check the [main source](./src/main/scala/inrae/application/main.scala)
 sbt fastOptJS::webpack 
 ```
 
-open index.html
+open [index.html](./index.html)
 
 for further information, visit https://p2m2.github.io/discovery/
